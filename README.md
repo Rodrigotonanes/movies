@@ -1,8 +1,8 @@
-# movie
-  integrantes   
+# integrantes
+
 rodrigo toñanes
-edad : 25 
+edad : 25
 ciudad: bs as
-sofia servian 
+sofia servian
 edad :22
 ciudad : bs as
